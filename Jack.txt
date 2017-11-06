@@ -1,0 +1,3 @@
+Name:         Jack Forde
+Designation:  Programmer
+Purpose:      Programming Wizardry
